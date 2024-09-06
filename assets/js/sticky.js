@@ -1,4 +1,3 @@
-
 let btn = document.getElementById("button");
 let text = document.getElementById("text_area");
 let notes_container = document.getElementById("notes_container");
