@@ -1,0 +1,8 @@
+.navbar,.btnn{
+    background-color: rgb(79, 79, 227);
+}
+.btnn:hover{
+    box-shadow: 5px 5px 5px rgb(82, 164, 222);
+    background-color: blue;
+    ;
+}

@@ -41,28 +41,51 @@ light_mode.addEventListener('click',()=>{
 
     dark_mode.style.display = "flex";
     light_mode.style.display = "none";
-    document.body.style.backgroundColor ='rgb(244, 235, 235)';
-    document.getElementById('navbar').style.backgroundColor ='greenyellow';
+
+    document.body.style.backgroundColor ='rgb(68, 68, 68)';
+document.getElementById('navbar').style.backgroundColor ='green';
+
+document.getElementById('ExpenseTracker').style.backgroundColor ='white';
+document.getElementById('ExpenseTracker').style.color ='black';
+
+
+document.getElementById('ExpenseTrackerDetail').style.backgroundColor ='white';
+document.getElementById('ExpenseTrackerDetail').style.color ='black';
+// document.getElementById('detail').style.color = 'black';
+
+document.getElementById('DataVisualization').style.backgroundColor ='white';
+document.getElementById('DataVisualization').style.color ='black';
+
+
+document.getElementById('AIFinancialAdvisor').style.backgroundColor ='white';
+document.getElementById('AIFinancialAdvisor').style.color ='black';
+
+
+document.getElementById('TaxesCalculator').style.backgroundColor ='white';
+document.getElementById('TaxesCalculator').style.color ='black';
+
+    // document.body.style.backgroundColor ='rgb(244, 235, 235)';
+    // document.getElementById('navbar').style.backgroundColor ='greenyellow';
     
-    document.getElementById('ExpenseTracker').style.backgroundColor ='white';
-    document.getElementById('ExpenseTracker').style.color ='black';
+    // document.getElementById('ExpenseTracker').style.backgroundColor ='white';
+    // document.getElementById('ExpenseTracker').style.color ='black';
     
-    document.getElementById('ExpenseTrackerDetail').style.backgroundColor ='white';
-    document.getElementById('ExpenseTrackerDetail').style.color ='black';
-    document.getElementById('contain').style.color = 'white'
+    // document.getElementById('ExpenseTrackerDetail').style.backgroundColor ='white';
+    // document.getElementById('ExpenseTrackerDetail').style.color ='black';
+    // document.getElementById('contain').style.color = 'white'
 
     
-    document.getElementById('DataVisualization').style.backgroundColor ='white';
-    document.getElementById('DataVisualization').style.color ='black';
+    // document.getElementById('DataVisualization').style.backgroundColor ='white';
+    // document.getElementById('DataVisualization').style.color ='black';
     
     
-    document.getElementById('AIFinancialAdvisor').style.backgroundColor ='white';
-    document.getElementById('AIFinancialAdvisor').style.color ='black';
+    // document.getElementById('AIFinancialAdvisor').style.backgroundColor ='white';
+    // document.getElementById('AIFinancialAdvisor').style.color ='black';
     
     
-    document.getElementById('TaxesCalculator').style.backgroundColor ='white';
-    document.getElementById('TaxesCalculator').style.color ='black';
-
+    // document.getElementById('TaxesCalculator').style.backgroundColor ='white';
+    // document.getElementById('TaxesCalculator').style.color ='black';
+    
 });
 
 

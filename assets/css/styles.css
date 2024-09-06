@@ -29,7 +29,35 @@ ul a{
     text-decoration: none;
     font-size: 20px;
 }
-
+.main{
+    display: flex;
+}
+.left_side{
+    background-color: rgb(87, 112, 104);
+    position: sticky;
+    top: 0;
+    bottom: 0;
+}
+.left_side div{
+    /* border: 2px solid black; */
+    display: flex;
+    gap: 1rem;
+    margin: 2rem;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(107, 139, 139);
+    /* position: sticky;
+    top: 0;
+    /* left: 0; */
+    bottom: 0; */
+    
+    
+}
+.left_side div a{
+    text-decoration: none;
+    color: white;
+}
 .btn{
 
     padding: 20px;

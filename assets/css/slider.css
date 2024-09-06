@@ -1,0 +1,30 @@
+/* .main{
+    display: flex;
+} */
+.mains{
+    display: flex;
+}
+.left_side{
+    background-color: rgb(87, 112, 104);
+    width: 20vw;
+    height: 100vh;
+    padding: 15px;
+}
+.left_side div{
+    /* border: 2px solid black; */
+    display: flex;
+    gap: 1rem;
+    margin: 1rem;
+    margin-top: 1px;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(107, 139, 139);
+   
+    
+    
+}
+.left_side div a{
+    text-decoration: none;
+    color: white;
+}

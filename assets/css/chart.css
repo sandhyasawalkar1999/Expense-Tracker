@@ -1,0 +1,38 @@
+.right_side{
+    background-image: url("https://thumbs.dreamstime.com/b/business-asian-woman-accountant-financial-expert-analyze-report-graph-finance-chart-banking-stock-market-research-office-268699270.jpg");
+    /* background-color: antiquewhite; */
+    width: 80vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    /* border: 2px solid black; */
+}
+h1{
+    color: rgb(65, 19, 216);
+    text-align: center;
+    font-size: 3rem;
+    background-color: aliceblue;
+}
+h2{
+    color: rgb(235, 18, 18);
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 18rem;
+    background-color: aliceblue;
+}
+.btn{
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    background-color: rgb(64, 241, 88);
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    align-items: center;
+    justify-self: center;
+    margin-left: 30rem;
+}
+.btn:hover{
+    background-color: rgb(51, 154, 170);
+    box-shadow: 5px 5px 5px rgb(5, 137, 130);
+    cursor: pointer;
+}
